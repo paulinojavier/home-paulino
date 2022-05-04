@@ -1,0 +1,12 @@
+$negro: #000;
+$blanco:#fff;
+.footer{
+    background-color:$negro;
+    width: 100%;
+    height: 100px;
+    p{
+        color: $blanco;
+        text-align: center;
+        padding-top: 50px;
+    }
+}
